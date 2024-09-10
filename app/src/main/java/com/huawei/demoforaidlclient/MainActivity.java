@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
     //sixth add on change
     //seventh change
     //eigth change
+
     ICommon iCommon;
     EditText value1,value2;
 
